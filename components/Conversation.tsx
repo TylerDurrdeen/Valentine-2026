@@ -110,7 +110,7 @@ export default function Conversation({ onComplete }: ConversationProps) {
             className="fixed -bottom-12 -left-12 z-50"
           >
             <Image
-              src="/man.12"
+              src="/man.png"
               alt="Man"
               width={400}
               height={400}
@@ -132,7 +132,7 @@ export default function Conversation({ onComplete }: ConversationProps) {
             className="fixed -bottom-12 -right-12 z-50"
           >
             <Image
-              src="/woman.26"
+              src="/woman.png"
               alt="Woman"
               width={400}
               height={400}
